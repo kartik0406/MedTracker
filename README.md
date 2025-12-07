@@ -105,7 +105,7 @@ cd MediaTrackerProject
    - Who can consent: **Admins and users**
    - Display names and descriptions: `Access MedTracker API`
    - State: **Enabled**
-4. Copy the full scope (e.g., `api://dc633eee-7e3c-4dd9-85f4-4aa850ebf341/access_as_user`)
+4. Copy the full scope (e.g., `api://dc676787ee-xxxxxxxxxxxxxxxx/access_as_user`)
 
 #### Step 3: Register Frontend Application
 
@@ -113,7 +113,7 @@ cd MediaTrackerProject
    - Name: `MedTracker-SPA`
    - Supported account types: **Accounts in any organizational directory and personal Microsoft accounts**
    - Redirect URI: Platform: **Single-page application (SPA)**, URI: `http://localhost:5173`
-2. Copy the **Application (client) ID** (e.g., `56f8ef2d-d6e0-4880-9803-8859b2e736ae`)
+2. Copy the **Application (client) ID** (e.g., `dc676787ee-xxxxxxxxxxxxxxxx`)
 
 #### Step 4: Configure API Permissions
 
@@ -312,7 +312,7 @@ npm run dev
 ## 🔧 AI Tools & Resources Used
 
 - **GitHub Copilot** - Code completion and suggestions
-- **ChatGPT/Claude** - Architecture decisions and debugging assistance
+- **ChatGPT** - Architecture decisions and debugging assistance
 - **Microsoft Learn** - Azure AD and .NET 8 documentation
 - **Stack Overflow** - Community solutions for specific issues
 - **Tailwind CSS Documentation** - UI styling reference
@@ -367,17 +367,6 @@ MediaTrackerProject/
 - [ ] Deploy to Azure App Service / Vercel
 - [ ] Add email notifications for low stock
 - [ ] Implement role-based access control (Admin/User)
-- [ ] Add audit logging for all CRUD operations
-- [ ] Export medicines list to Excel/PDF
-- [ ] Add charts/analytics dashboard
-- [ ] Implement bulk upload via CSV
-- [ ] Add medicine categories and tags
-- [ ] Mobile responsive improvements
-- [ ] Dark mode theme
-
-## 📄 License
-
-This project is created for demonstration purposes.
 
 ## 👤 Author
 
