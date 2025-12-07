@@ -378,3 +378,6 @@ Kartik Khanna
 - Microsoft Azure AD team for comprehensive documentation
 - .NET community for excellent resources
 - React and Vite teams for modern development tools
+
+## Screenshots
+![https://github.com/kartik0406/MedTracker/blob/main/1.png]
