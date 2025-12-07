@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IRrBXseL22jwzL2Q+7vieXkxKFIlATX9FJuIKuJFfrk=",
+  "Source": "MedTracker.API",
+  "BasePath": "_content/MedTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

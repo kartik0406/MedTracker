@@ -1,0 +1,22 @@
+﻿version: "3.9"
+
+services:
+  sqledge:
+    image: mcr.microsoft.com/azure-sql-edge:latest
+    container_name: sqledge
+    environment:
+      ACCEPT_EULA: "1"
+      MSSQL_SA_PASSWORD: "YourStrong@Pass123"
+      MSSQL_RPC_PORT: "1433"
+      MSSQL_ENCRYPT: "false"
+      MSSQL_BYPASS_TLS: "true"
+      MSSQL_TLS_VERSION: ""
+      MSSQL_IP_ADDRESS: "0.0.0.0"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqledge_data:/var/opt/mssql
+    restart: unless-stopped
+
+volumes:
+  sqledge_data:
