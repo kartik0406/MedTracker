@@ -380,4 +380,8 @@ Kartik Khanna
 - React and Vite teams for modern development tools
 
 ## Screenshots
-![https://github.com/kartik0406/MedTracker/blob/main/1.png]
+![](https://github.com/kartik0406/MedTracker/blob/main/1.png)
+![](https://github.com/kartik0406/MedTracker/blob/main/2.png)
+![](https://github.com/kartik0406/MedTracker/blob/main/3.png)
+![](https://github.com/kartik0406/MedTracker/blob/main/4.png)
+![](https://github.com/kartik0406/MedTracker/blob/main/5.png)
