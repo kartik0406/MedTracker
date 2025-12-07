@@ -93,7 +93,7 @@ cd MediaTrackerProject
    - Supported account types: **Accounts in any organizational directory and personal Microsoft accounts**
    - Redirect URI: Leave blank
 3. Click **Register**
-4. Copy the **Application (client) ID** (e.g., `dc633eee-7e3c-4dd9-85f4-4aa850ebf341`)
+4. Copy the **Application (client) ID** (e.g., `dc676787ee-xxxxxxxxxxxxxxxx`)
 
 #### Step 2: Expose API Scope
 
